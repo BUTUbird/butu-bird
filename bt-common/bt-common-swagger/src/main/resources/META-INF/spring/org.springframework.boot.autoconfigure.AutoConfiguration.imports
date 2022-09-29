@@ -1,0 +1,3 @@
+org.butu.config.SwaggerAutoConfiguration
+org.butu.config.SwaggerWebConfiguration
+org.butu.config.SwaggerBeanPostProcessor
